@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/701414491.svg)](https://zenodo.org/doi/10.5281/zenodo.10777967)
 # About The Project
 
 This is the research compendium for "Exploring the association of weather variability on _Campylobacter_ - a systematic review" currently **under submission**. In this article we found 47 articles which describe antecdent weather events preceding _Campylobacter_ outbreaks or which explore the association between weather and _Campylobacter_. 
