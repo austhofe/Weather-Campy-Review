@@ -1,16 +1,22 @@
 [![DOI](https://zenodo.org/badge/701414491.svg)](https://zenodo.org/doi/10.5281/zenodo.10777967)
 # About The Project
 
-This is the research compendium for "Exploring the association of weather variability on _Campylobacter_ - a systematic review" currently **under submission**. In this article we found 47 articles which describe antecdent weather events preceding _Campylobacter_ outbreaks or which explore the association between weather and _Campylobacter_. 
+This is the research compendium for "Exploring the association of weather variability on _Campylobacter_ - A systematic review" published in Environmental Research. In this article we found 47 articles which describe antecdent weather events preceding _Campylobacter_ outbreaks or which explore the association between weather and _Campylobacter_. 
 
 PROSPERO Registration #: 351884
 
-## Navigation
+## Citation
+Austhof E, Warner S, Helfrich K, Pogreba-Brown K, Brown HE, Klimentidis YC, Walter ES, Jervis RH, White AE. Exploring the association of weather variability on _Campylobacter_ – A systematic review. Environmental Research. 2024 Apr 4:118796.
 
-This research compendium will include:
+[Full Article](https://authors.elsevier.com/a/1ivSk_KHppySy)
+
+## Contents
+
+This research compendium includes:
 * Data extracted from included research studies and outbreak reports
-* Excel sheets with tables and summary measures
-* Files from lierature searches for each database
+* Excel sheet with tables and summary measures
+* Files from literature searches for each database
+* Supplemental material file with additional tables and information
 
 ## License
 
@@ -23,7 +29,3 @@ Researchers interested in using this data for subsequent publications or researc
 Erika Austhof - [@epierika]([https://twitter.com/your_username](https://www.linkedin.com/in/epierika/)) - barrette@arizona.edu
 
 Project Link: ([Weather-Campy-Review](https://github.com/austhofe/Weather-Campy-Review/))
-
-## Acknowledgments & Funding
-
-This work was funded in part by the Colorado Integrated Food Safety Centers of Excellence, which is supported by the Epidemiology and Laboratory Capacity for Infectious Disease Cooperative Agreement through the Centers for Disease Control and Prevention (Grant No. NU50CK000552-03-00), and the Technology and Research Initiative Fund (TRIF) Roots for Resilience program.
